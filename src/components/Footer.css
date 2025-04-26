@@ -1,0 +1,27 @@
+.custom-footer {
+    background-color: #1c193e;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+    font-size: 14px;
+  }
+  
+  .custom-footer .heart {
+    color: white;
+    margin: 0 5px;
+  }
+  
+  .custom-footer a {
+    color: #ffffff;
+    text-decoration: underline;
+    font-weight: bold;
+  }
+  
+  .custom-footer a:hover {
+    color: #ccccff;
+  }
+  
+  .custom-footer strong {
+    font-weight: bold;
+  }
+  

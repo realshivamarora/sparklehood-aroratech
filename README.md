@@ -1,46 +1,95 @@
-# Getting Started with Create React App
+# AI Safety Incident Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A clean, responsive web dashboard for managing and reporting AI-related safety incidents.
+Built with HTML, CSS, TypeScript, Bootstrap, and ReactJS.
+Designed for a smooth and intuitive user experience, with a vibrant modern look.
 
-## Available Scripts
+## Screenshots
 
-In the project directory, you can run:
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+* __Grid View (3 boxes per row)__ and __Table View (1 box per row) toggle__
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* __Filter incidents by Severity:__ High, Medium, Low
 
-### `npm test`
+* __Sort incidents by Reported Date:__ Newest to Oldest and vice versa
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* __Add New Incident dynamically__ with live form
 
-### `npm run build`
+* __Animated Form__ opening for adding incidents
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* __Responsive Layout__ — works perfectly on mobile, tablet, and desktop
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* __Beautiful Color Theme:__
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* __Primary Color:__ #1c193e (Deep Navy Blue)
 
-### `npm run eject`
+   __Accent Colors:__
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+  * __High Severity:__ Red
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+  * __Medium Severity:__ Yellow
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+  * __Low Severity:__ Green
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Hover states with subtle scaling and light transitions
+### 🎨 Color Palette
+* Main Backgrounds -  #1c193e
+* High Severity - #dc3545
+* Medium Severity - #ffc107
+* Low Severity - #28a745
+* Hover Buttons - Slightly lighter navy shades
 
-## Learn More
+## 📦 Project Structure
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+/src
+  ├── components
+  │     ├── IncidentDashboard.tsx
+  │     ├── IncidentDashboard.css
+  │     ├── Footer.tsx
+  │     └── Footer.css
+  ├── App.tsx
+  ├── index.tsx
+  └── ...other basic setup files
+
+```
+
+## 🚀 How to Run Locally
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/ai-safety-incident-dashboard.git
+cd ai-safety-incident-dashboard
+```
+### 2. Install Dependencies
+```bash
+npm install
+```
+### 3. Start the App
+```bash
+npm start
+```
+ **Open http://localhost:3000 to view it in your browser.**
+
+
+## 📋 Additional Notes
+
+* Make sure you have Node.js and npm installed on your machine.
+
+* This project uses React with TypeScript for better scalability.
+
+* Styling is done using a mix of Bootstrap and Custom CSS for a professional touch.
+
+* No backend needed — incidents are managed dynamically on the client-side.
+
+* Designed with future API integration possibility in mind.
+
+## 🧡 Special Thanks
+
+Made with ❤️ by Shivam Arora for Silverhood
+Want to know more? [Visit aroratech.tech](https://aroratech.tech/)
+
+# 🚀 Let's build AI together! 🌍
