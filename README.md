@@ -5,7 +5,32 @@ Built with HTML, CSS, TypeScript, Bootstrap, and ReactJS.
 Designed for a smooth and intuitive user experience, with a vibrant modern look.
 
 ## Screenshots
+* Landing Window
+![image](https://github.com/user-attachments/assets/9ce757ca-3482-4d64-a066-50c7c7e82057)
 
+* Add New Incident
+![image](https://github.com/user-attachments/assets/7309d31e-7c69-4f08-a697-97efe757f616)
+
+* Added New Incident
+![image](https://github.com/user-attachments/assets/cc6d8caf-872d-4a91-90db-f454fe0e9f63)
+
+* Filter by Severity
+![image](https://github.com/user-attachments/assets/9dccb00f-3a04-4a43-9a8f-a4a7c4b3115c)
+
+* Sort by Date (Newest to Oldest)
+![image](https://github.com/user-attachments/assets/86a95845-3867-4a66-b9f6-29061c0eacf5)
+
+* Sort by Date (Oldest to Newest)
+![image](https://github.com/user-attachments/assets/a478566b-f581-4f74-8601-c046ec917bfd)
+
+* Display Format: Grid
+![image](https://github.com/user-attachments/assets/1a5343cd-b21e-404b-b69d-ceba2a71823f)
+
+* Display Format: List
+![image](https://github.com/user-attachments/assets/4674b226-6f46-4ca7-9c9e-2e512dfccbdf)
+
+## Live Demo
+Visit **[https://silverhood-aroratech.netlify.app/](https://silverhood-aroratech.netlify.app/) for live demo
 
 ## ✨ Features
 
