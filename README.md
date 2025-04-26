@@ -5,7 +5,7 @@ Built with HTML, CSS, TypeScript, Bootstrap, and ReactJS.
 Designed for a smooth and intuitive user experience, with a vibrant modern look.
 
 ## GitHub Repo Link
-Visit **[https://github.com/realshivamarora/sparklehood-aroratech](https://github.com/realshivamarora/sparklehood-aroratech)** for live demo
+Visit **[https://github.com/realshivamarora/sparklehood-aroratech](https://github.com/realshivamarora/sparklehood-aroratech)** for Git Repo
 
 ## Screenshots
 * Landing Window
