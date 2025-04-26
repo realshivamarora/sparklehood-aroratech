@@ -1,14 +1,17 @@
 import React from 'react';
-import './App.css';
 import Header from './components/Header';
 import IncidentList from './components/IncidentList';
 import Footer from './components/Footer';
 
-const App: React.FC = () => {
+import './App.css'; // Make sure you import the above CSS
+
+function App() {
   return (
-    <div>
+    <div className="app-container">
       <Header />
-      <IncidentList />
+      <div className="content">
+        <IncidentList />
+      </div>
       <Footer />
     </div>
   );

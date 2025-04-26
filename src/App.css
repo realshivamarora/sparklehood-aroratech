@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+/* App.css or global styles */
+
+html, body, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.app-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Content area grows to fill space */
+.content {
+  flex: 1;
+}
