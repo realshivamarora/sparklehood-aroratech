@@ -3,7 +3,7 @@ import Header from './components/Header';
 import IncidentList from './components/IncidentList';
 import Footer from './components/Footer';
 
-import './App.css'; // Make sure you import the above CSS
+import './App.css';
 
 function App() {
   return (
