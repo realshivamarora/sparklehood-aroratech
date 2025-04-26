@@ -30,7 +30,7 @@ Designed for a smooth and intuitive user experience, with a vibrant modern look.
 ![image](https://github.com/user-attachments/assets/4674b226-6f46-4ca7-9c9e-2e512dfccbdf)
 
 ## Live Demo
-Visit **[https://silverhood-aroratech.netlify.app/](https://silverhood-aroratech.netlify.app/) for live demo
+Visit **[https://silverhood-aroratech.netlify.app/](https://silverhood-aroratech.netlify.app/)** for live demo
 
 ## ✨ Features
 
