@@ -4,6 +4,9 @@ A clean, responsive web dashboard for managing and reporting AI-related safety i
 Built with HTML, CSS, TypeScript, Bootstrap, and ReactJS.
 Designed for a smooth and intuitive user experience, with a vibrant modern look.
 
+## GitHub Repo Link
+Visit **[https://github.com/realshivamarora/sparklehood-aroratech](https://github.com/realshivamarora/sparklehood-aroratech)** for live demo
+
 ## Screenshots
 * Landing Window
 ![image](https://github.com/user-attachments/assets/9ce757ca-3482-4d64-a066-50c7c7e82057)
